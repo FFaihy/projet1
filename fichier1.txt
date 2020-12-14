@@ -1,1 +1,2 @@
 Hello Word
+Bienvenue dans le cours GIT
